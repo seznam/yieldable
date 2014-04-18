@@ -1,7 +1,7 @@
 {
   "name": "yieldable",
   "version": "1.0.0",
-  "description": "Make object's methods yieldable",
+  "description": "Make methods yieldable",
   "main": "index.js",
   "scripts": {
     "test": "mocha --harmony test.js"
