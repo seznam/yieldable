@@ -1,0 +1,32 @@
+{
+  "name": "yieldable",
+  "version": "1.0.0",
+  "description": "Make object's methods yieldable",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seznam/yieldable.git"
+  },
+  "keywords": [
+    "yield",
+    "object",
+    "thunk",
+    "co",
+    "generator",
+    "generators"
+  ],
+  "author": "Juraj Hájovský <juraj@hajovsky.sk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seznam/yieldable/issues"
+  },
+  "homepage": "https://github.com/seznam/yieldable",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2",
+    "co": "^3.0.5"
+  }
+}
